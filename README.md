@@ -2,7 +2,7 @@
 <h1 align="center">👾 Hello world, I'm Monicke 👾</h1>
 
 <p align="center">
-  Sou uma estudante que as vezes insiste em desenvolver ☕  
+  Transformando café em código desde 2022  
   <br><br>
   <b>#CodeLikeAGirl</b> • <b>#Backend</b> • <b>#Python</b>
 </p>
@@ -34,14 +34,6 @@
 
 ---
 
-## 📊 Atividades Recentes
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monickeivlopes&theme=radical&hide_border=false" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🏷️ Badges
 
 <p align="center">
@@ -52,10 +44,6 @@
 </p>
 
 ---
-
-## ✨ Sobre mim
-
-- 🧪 Explorando Python, JavaScript, APIs 
 
 ## 📬 Onde me encontrar
 
