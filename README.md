@@ -1,5 +1,5 @@
 
-<h1 align="center">👾 Hello world, I'm Monicke Lopes 👾</h1>
+<h1 align="center">👾 Hello world, I'm Monicke 👾</h1>
 
 <p align="center">
   Sou uma estudante que as vezes insiste em desenvolver ☕  
@@ -11,21 +11,20 @@
 ## 🧠 Tecnologias que eu uso
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="12" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="12" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="12" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="12" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="12" alt="python logo"  />
-  <img src="https://img.shields.io/badge/REST%20API-ff00ff?style=for-the-badge&logo=api&logoColor=white" height="30" width="12" alt="REST API"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" width="80" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="80" width="80" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" width="80" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" width="80" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" width="80" alt="python logo"  />
 </p>
----
+
 
 ## 💻 Meu Dashboard
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=louisetormes&show_icons=true&theme=radical" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=monickeivlopes&show_icons=true&theme=radical" alt="GitHub Stats"/>
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monickeivlopes&layout=compact&theme=radical" alt="Top Languages"/>
@@ -56,7 +55,7 @@
 
 ## ✨ Sobre mim
 
-- 🧪 Explorando Python, JavaScript, APIs e microsserviços 
+- 🧪 Explorando Python, JavaScript, APIs 
 
 ## 📬 Onde me encontrar
 
@@ -70,9 +69,4 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <i>“O código é poesia em bits.”</i> 💫
-</p>
 
